@@ -24,3 +24,6 @@ To run the program, go into package serverController and find class Server. Run 
 You will be prompted to login as either an admin or a student. To do so, you can use name "Rohit" and ID "1000". This will work for both admin and student.
 
 Our bonus features include logging in as either an admin or student. If admin is chosen, there is a separate GUI Frame that has features specific to that of admin, where they can add and remove classes from the list of courses in the database.
+
+#### UML Diagram
+![alt text](https://github.com/xtinatruong/StudentRecordApp/blob/main/FinalProject%20UML.drawio.png)
